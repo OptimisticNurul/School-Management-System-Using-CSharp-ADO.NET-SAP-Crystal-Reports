@@ -1,0 +1,260 @@
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\School-Management-System-using-CSharp-main\School-Management-System-using-CSharp-main\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+P:\Final Project for IsDB\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\1277741\School-Management-System-using-CSharp-main\School-Management-System\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\stdole.dll
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CopyComplete
+C:\Users\Kazi Md Nurul Islam\Downloads\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.ReportsView.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.Shared.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\stdole.dll
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.ReportsView.resources
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CopyComplete
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+J:\1279683\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.Shared.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\bin\Debug\stdole.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.ReportsView.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CopyComplete
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.Shared.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\bin\Debug\stdole.dll
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.ReportsView.resources
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CopyComplete
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+I:\My All IsDB Exam and project main file\SchoolMangementSystem ADO.NET\School Mangement System\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
